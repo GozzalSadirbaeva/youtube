@@ -9,7 +9,7 @@ function Navbar() {
       </div>
       <div className="flex">
         <input
-          className="bg-[#000000] w-[574px]"
+          className="bg-[#000000] w-[574px] text-white"
           type="text"
           placeholder="Ara"
         />
